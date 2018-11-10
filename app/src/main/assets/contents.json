@@ -1,0 +1,1048 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+
+
+    {
+      "identifier": "malluquotes",
+      "name": "mallu quotes arts",
+      "publisher": "typography arts",
+      "tray_image_file": "1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        }
+      ,
+        {
+          "image_file": "29.webp"
+        },
+        {
+          "image_file": "30.webp"
+        }
+      ]
+    },
+
+
+    {
+      "identifier": "mammootty",
+      "name": "mammooty",
+      "publisher": "ikka",
+      "tray_image_file": "mam3.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "mam1.webp"
+        },
+        {
+          "image_file": "mam2.webp"
+        },
+        {
+          "image_file": "mam3.webp"
+        },
+        {
+          "image_file": "mam4.webp"
+        },
+        {
+          "image_file": "mam5.webp"
+        },
+        {
+          "image_file": "mam6.webp"
+        },
+        {
+          "image_file": "mam7.webp"
+        },
+        {
+          "image_file": "mam8.webp"
+        },
+        {
+          "image_file": "mam9.webp"
+        },
+        {
+          "image_file": "mam10.webp"
+        },
+        {
+          "image_file": "mam11.webp"
+        },
+        {
+          "image_file": "mam12.webp"
+        }
+      ]
+    },
+
+    {
+      "identifier": "dialogues",
+      "name": "malayalam dialogues",
+      "publisher": "dialogues",
+      "tray_image_file": "1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        }
+      ]
+    },
+
+    {
+      "identifier": "mohanlal",
+      "name": "mohanlal",
+      "publisher": "lalettan",
+      "tray_image_file": "1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        }
+      ]
+    },
+
+    {
+      "identifier": "dq",
+      "name": "dulquar dalman",
+      "publisher": "dq",
+      "tray_image_file": "1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        }
+      ]
+    },
+
+    {
+      "identifier": "memes",
+      "name": "meme characters",
+      "publisher": "malayalam meme characters",
+      "tray_image_file": "1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        }
+      ]
+    },
+
+    {
+      "identifier": "memedialogues1",
+      "name": "1 malayalam trolls",
+      "publisher": "malayalam trolls 1",
+      "tray_image_file": "1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        }
+      , {
+          "image_file": "29.webp"
+        }
+      , {
+          "image_file": "30.webp"
+        }
+      ]
+    },
+
+    {
+      "identifier": "memedialogues2",
+      "name": "2 malayalam trolls",
+      "publisher": "malayalam trolls 2",
+      "tray_image_file": "1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        }
+      , {
+          "image_file": "29.webp"
+        }
+      , {
+          "image_file": "30.webp"
+        }
+      ]
+    },
+
+    {
+      "identifier": "dashamoolam",
+      "name": "dashamoolam",
+      "publisher": "suraj dashamoolam",
+      "tray_image_file": "1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        }
+      ]
+    },
+
+    {
+      "identifier": "chalidialogues",
+      "name": "chali malayalam dailogues",
+      "publisher": "malayalam trolls 3",
+      "tray_image_file": "1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        }
+      , {
+          "image_file": "29.webp"
+        }
+
+      ]
+    },
+
+
+    {
+      "identifier": "pubg",
+      "name": "pubg stickers",
+      "publisher": "pubg version",
+      "tray_image_file": "1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        }
+      ]
+    },
+
+
+    {
+      "identifier": "blasters",
+      "name": "kerala blasters memes",
+      "publisher": "kbfc fans memes",
+      "tray_image_file": "1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        }
+      ]
+    },
+
+
+    {
+      "identifier": "malluactress",
+      "name": "mallu actress",
+      "publisher": "malayalam actress",
+      "tray_image_file": "1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        }
+      ]
+    },
+
+
+    {
+      "identifier": "dinkan",
+      "name": "dinkan memes",
+      "publisher": "mallu dinkan memes",
+      "tray_image_file": "1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        }
+      ]
+    }
+
+
+
+  ]
+}
